@@ -4,3 +4,4 @@ message
 video call
 
 chat
+internet
